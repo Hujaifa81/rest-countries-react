@@ -1,0 +1,13 @@
+.box-style{
+    border: 5px solid red;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+.btn-style-notVisited{
+    background-color: aqua;
+}
+.btn-style-visited{
+    background-color: seagreen;
+}
+
